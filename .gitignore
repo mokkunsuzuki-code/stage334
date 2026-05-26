@@ -1,0 +1,23 @@
+core/
+private/
+tools/
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.DS_Store
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+local/
+
+# local stage files
+examples/
+qsp_public/
+reports/
+samples/
+schemas/
+stage328_decision.json
+.nojekyll
